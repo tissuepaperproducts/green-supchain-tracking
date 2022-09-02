@@ -4,7 +4,7 @@ Open-Source Project: Calling All Polygon Blockchain Programmers
 
 The goal is creating a polygon tracking system for green paper products with the help of the world's best programmers.
 
-
+Original Smart Contract for Project Start-Up: ETHEREUM - SupplyChain
 
 The supply chain system consists of:
 
@@ -21,3 +21,5 @@ The supply chain system consists of:
 6) DISTRIBUTOR = Retailer
 
 7) CONSUMER = End-User
+
+
