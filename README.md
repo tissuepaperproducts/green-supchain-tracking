@@ -4,22 +4,20 @@ Open-Source Project: Calling All Polygon Blockchain Programmers
 
 The goal is creating a polygon tracking system for green paper products with the help of the world's best programmers.
 
-Original Smart Contract for Project Start-Up: ETHEREUM - SupplyChain
+Ethereum Smart Contract for Project Reference: SupplyChain
 
-The supply chain system consists of:
+The new supply chain system should be conformed of these players:
 
-1) FARMER = Certified Wood Producer
+1) FARMER = a Wood Producer
 
-2) PULP MILL = Pulp Producer
+2) PULP Producer = a Pulp Producer
 
-3) PAPER MILL = Paper Manufacturer
+3) PAPER FACTORY = a Paper Manufacturer or a Paper Converter
 
-4) PAPER CONVERTER = Paper Converting Factory
+4) WHOLESALER = a Reseller
 
-5) WHOLESALER = Reseller
+5) DISTRIBUTOR = a Retailer
 
-6) DISTRIBUTOR = Retailer
-
-7) CONSUMER = End-User
+6) CONSUMER = an End User
 
 
