@@ -6,9 +6,7 @@ The goal is creating a polygon DApp tracking system for paper products with the 
 
 Ethereum Smart Contract for Project Reference: SupplyChain
 
-Frontend : React
-
-Backend :  Solidity 
+To be build on: React, TypeScript, Hardhat and Solidity and to integrate with SAP HANA database SQLScript
 
 The new supply chain system should be conformed of these players:
 
