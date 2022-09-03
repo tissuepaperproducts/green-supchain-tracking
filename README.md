@@ -1,10 +1,14 @@
 # green-supchain-tracking
 
-Open-Source Project: Calling All Polygon Blockchain Programmers
+Open-Source Project: Calling All Polygon Ethereum Blockchain Programmers
 
-The goal is creating a polygon DApp tracking system for green paper products with the help of the world's best programmers.
+The goal is creating a polygon DApp tracking system for paper products with the help of the world's best programmers.
 
 Ethereum Smart Contract for Project Reference: SupplyChain
+
+Frontend : React
+
+Backend :  Solidity 
 
 The new supply chain system should be conformed of these players:
 
