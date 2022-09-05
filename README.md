@@ -22,4 +22,4 @@ The new supply chain system should be conformed of these players:
 
 6) CONSUMER = an End User
 
-<img src="https://github.com/tissuepaperproducts/green-supchain-tracking/blob/main/public/paper%20polygon%20sup%20chain.png" align="middle" />
+<img src="'" align="middle" />
